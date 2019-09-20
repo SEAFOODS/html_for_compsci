@@ -1,2 +1,2 @@
-# whitney_unicef
-Any code whatsoever for the Whitney UNICEF club
+# random website
+just a random website
