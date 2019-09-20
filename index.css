@@ -5,6 +5,6 @@ body {
 }
 
 .title {
-  background-color: #34c9eb;
+  background-color: linear-gradient( to bottom right, #34abeb, #34c9eb);
   color: #FFFFFF;
 }
