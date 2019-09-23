@@ -30,3 +30,7 @@ body {
   color: #ff8800;
   font-size: 15px;
 }
+
+.small {
+  font-size: 5px;
+}
