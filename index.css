@@ -4,33 +4,30 @@ body {
   font-family: Open Sans, Helvetica;
 }
 
-.title {
+div {
   length: 400px;
   width: 100%;
   text-align: center;
+}
+
+.title {
   background-color: #34c9eb;
   color: #FFFFFF;
   font-size: 40px;
 }
 
 .second {
-  length: 400px;
-  width: 100%;
-  text-align: center;
   background-color: #000000;
   color: #fcba03;
   font-size: 30x;
 }
 
 .third {
-  length: 400px;
-  width: 100%;
-  text-align: center;
   background-color: #ac0de0;
   color: #ff8800;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .small {
-  font-size: 5px;
+  font-size: 10px;
 }
