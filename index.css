@@ -5,7 +5,7 @@ body {
 }
 
 .title {
-  length: 40%;
+  length: 400px;
   width: 100%;
   text-align: center;
   background-color: #34c9eb;
@@ -14,10 +14,19 @@ body {
 }
 
 .second {
-  length: 40%;
+  length: 400px;
   width: 100%;
   text-align: center;
   background-color: #000000;
   color: #fcba03;
-  font-size: 35px;
+  font-size: 30x;
+}
+
+.third {
+  length: 400px;
+  width: 100%;
+  text-align: center;
+  background-color: #ac0de0;
+  color: #ff8800;
+  font-size: 15px;
 }
