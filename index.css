@@ -5,6 +5,19 @@ body {
 }
 
 .title {
+  length: 40%;
+  width: 100%;
+  text-align: center;
   background-color: #34c9eb;
   color: #FFFFFF;
+  font-size: 40px;
+}
+
+.second {
+  length: 40%;
+  width: 100%;
+  text-align: center;
+  background-color: #000000;
+  color: #fcba03;
+  font-size: 35px;
 }
